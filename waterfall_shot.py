@@ -1,8 +1,6 @@
-import matplotlib.animation as animation
 from matplotlib.mlab import psd
 import pylab as pyl
 import numpy as np
-import sys
 from rtlsdr import RtlSdr
 
 sdr = RtlSdr()
